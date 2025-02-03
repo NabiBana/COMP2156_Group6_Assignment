@@ -1,0 +1,1 @@
+In the COMP 3104 - DevOps course, there is a project which involves creating a Single Page Application then hosting it on Github Pages. This is a fun way to learn more about DevOps. i.e. how they work well with CI and CD

@@ -1,0 +1,3 @@
+Importance of learning DevOps in the software development cycle:
+DevOps can make the time to develop, test and deploy the software shorter.
+Stronger security (automated security scans can help to catch issues quickely).
