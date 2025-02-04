@@ -1,0 +1,2 @@
+Importance of learning DevOps in the software development cycle:
+DevOps helps to set up systems like servers automatically by using tools like Ansible so you don't have to do that much work manually.
