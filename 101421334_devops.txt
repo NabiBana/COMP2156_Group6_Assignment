@@ -1,0 +1,2 @@
+Info about the COMP 2156 DevOps Course
+COMP 2156 - DevOps is a really interesting and rewarding course as it helps you get the essential skills needed to become a DevOps engineer by doing many different assignments (both group and induvidual) and lab exercieses to become a master at using the command line interface and different tools.
