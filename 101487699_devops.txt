@@ -1,0 +1,7 @@
+Overview:
+
+The COMP 3104 – DevOps course at George Brown College is designed to provide students with a comprehensive understanding
+of DevOps principles and practices.
+While specific details about the course curriculum are not publicly available, a project from the course indicates a
+focus on collaborative development using GitHub,  implementing branching strategies,
+and setting up continuous integration pipelines with GitHub Actions.
