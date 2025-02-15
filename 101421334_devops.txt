@@ -1,3 +1,4 @@
 Info about the COMP 2156 DevOps Course
 COMP 2156 - DevOps is a really interesting and rewarding course as it helps you get the essential skills needed to become a DevOps engineer by doing many different assignments (both group and induvidual) and lab exercieses to become a master at using the command line interface and different tools.
 In the COMP 2156 - DevOps course, there is a project which involves creating a Single Page Application then hosting it on Github Pages. This is a fun way to learn more about DevOps. i.e. how they work well with CI and CD
+The COMP 2156 - DevOps course is a really good opportunity to apply the skills you have learned at the workplace for entry level DevOps/assistant positions.
