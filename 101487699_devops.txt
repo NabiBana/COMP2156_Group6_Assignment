@@ -10,3 +10,8 @@ When do students typically take this course?
 
 At George Brown College, the COMP 3104 – DevOps course is typically taken in the fifth semester of the Computer
 Programming and Analysis (T177) program. This scheduling places the course in the Fall term of the third year of study.
+
+COMP 3104 – DevOps course is taught by several experienced professors. Notably:
+Pritesh Patel.
+Jacky Min.
+Przemyslaw Pawluk.
