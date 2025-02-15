@@ -1,2 +1,4 @@
 The course demonstrates skills of using DevOPs tools, cloud database
 technologies.
+This course assists in creating effective strategies and the utlilize service platform
+that benifits cloud computing to deploy software products.
