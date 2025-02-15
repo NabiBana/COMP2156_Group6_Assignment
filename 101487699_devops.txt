@@ -5,3 +5,8 @@ of DevOps principles and practices.
 While specific details about the course curriculum are not publicly available, a project from the course indicates a
 focus on collaborative development using GitHub,  implementing branching strategies,
 and setting up continuous integration pipelines with GitHub Actions.
+
+When do students typically take this course?
+
+At George Brown College, the COMP 3104 – DevOps course is typically taken in the fifth semester of the Computer
+Programming and Analysis (T177) program. This scheduling places the course in the Fall term of the third year of study.
