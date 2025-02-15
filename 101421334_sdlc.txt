@@ -1,2 +1,4 @@
 Importance of learning DevOps in the software development cycle:
 DevOps has a thing called CI (continuous integration) and CD (continuous delivery/deployment) which helps teams release updates really quick without any delays by automating important steps in the software development cycle.
+DevOps can make the time to develop, test and deploy the software shorter.
+Stronger security (automated security scans can help to catch issues quickely).
