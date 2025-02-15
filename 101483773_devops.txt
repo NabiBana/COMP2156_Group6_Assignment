@@ -7,3 +7,5 @@ in order to do the work they need. So far the focus of the course has been about
 In addition, comp3104 is my favourite course that I'm taking this semester. It's been
 very interesting and, I'm engaged in class, running the appropriate commands and, I'm learning
 Linux a lot more as a result.
+
+This will be the last commit for this document. Farewell
