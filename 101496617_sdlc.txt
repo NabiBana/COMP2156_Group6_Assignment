@@ -1,0 +1,2 @@
+The importance to learning DevOps as it provides faster development and
+deployment to automate processes, reducing manual intervention.
