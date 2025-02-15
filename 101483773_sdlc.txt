@@ -8,3 +8,7 @@ experiences. As modern software development demands agility and scalability,
 understanding DevOps principles is crucial for any aspiring software engineer
 or IT professional.
 
+I'm not quite sure what else to add here, I just know that I have 10 commits to complete
+so, I'm just adding some words here and there to this document so I can commit a new
+copy to satisfy the requirements.
+
