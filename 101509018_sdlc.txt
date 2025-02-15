@@ -34,3 +34,9 @@ Importance of Learning DevOps in Software Development Cycle
    There are many other roles involved in the process.
    A team member who is terrible at coding could be good at any of the different roles, and vice versa.
    Re-tasking team members earlier in the process prevent wastage of time and resources.
+
+6. A Good Organizational Culture
+   Working on a DevOps team improves interpersonal relationships and builds inter-departmental trust in the following ways:
+        - It promotes a better understanding of other teams, their challenges, and what it takes to accomplish their tasks.
+        - Teams realize that other departments and team members can help to shoulder the challenges they face at work.
+        - Networking across departments helps to curve alternative career paths.
