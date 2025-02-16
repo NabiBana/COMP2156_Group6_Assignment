@@ -1,0 +1,11 @@
+This document will contain some information about COMP 3104 and my thoughts
+on the course so far.
+
+This course will give preliminary information about the resources DevOps engineers use
+in order to do the work they need. So far the focus of the course has been about GitHub.
+
+In addition, comp3104 is my favourite course that I'm taking this semester. It's been
+very interesting and, I'm engaged in class, running the appropriate commands and, I'm learning
+Linux a lot more as a result.
+
+This will be the last commit for this document. Farewell

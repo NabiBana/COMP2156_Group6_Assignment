@@ -1,0 +1,12 @@
+This will be a text document containing some information about George Brown College.
+
+- George Brown College has 3 campuses
+- I'm currently attending a program being taught at the Casa Loma Campus, however my program
+is fully online
+
+- I've also decided to further my education as well. I used to be in T191, but now I decided
+that I want to continue, and so I was accepted into T187!
+
+
+This will be the last commit for this document. Farewell
+
