@@ -1,0 +1,6 @@
+The importance to learning DevOps as it provides faster development and
+deployment to automate processes, reducing manual intervention.
+Improved collaboration - which encourages teamwork between developers, 
+IT operations, and quality assurance.
+Cost efficiency - reduces operational costs due to automating 
+manual task.
